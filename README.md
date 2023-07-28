@@ -1,2 +1,7 @@
 # NoteWorthy
-NoteWorthy is an intelligent web app that uses machine learning to auto tag notes. Seamlessly built with Node.js, Express.js, and MongoDB, users can effortlessly organize and find notes with smart tags, enhancing productivity and efficiency.
+![image](https://github.com/akanksha2305/NoteWorthy/assets/64099160/87f3956b-d0ca-47de-85aa-0deae3a8bbad)
+
+<div align='center'>
+
+NoteWorthy is an innovative web application that revolutionizes note-taking and organization. Built using Node.js, Express.js, MongoDB, and machine learning, NoteWorthy introduces an intelligent auto tagging feature that automatically suggests relevant tags for each note. Powered by natural language processing and a robust text classification model, users can effortlessly create, manage, and find notes with smart tags, optimizing productivity and decluttering their digital workspace. With its user-friendly interface and real-time updates, NoteWorthy elevates the note-taking experience, providing a seamless and intelligent solution for organizing thoughts and ideas.
+</div>
