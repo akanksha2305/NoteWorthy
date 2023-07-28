@@ -1,5 +1,6 @@
 # NoteWorthy
-![image](https://github.com/akanksha2305/NoteWorthy/assets/64099160/87f3956b-d0ca-47de-85aa-0deae3a8bbad)
+![image](https://github.com/akanksha2305/NoteWorthy/assets/64099160/f357a85d-e50b-4878-86b4-e1f8d387189d)
+
 
 <div align='center'>
 
