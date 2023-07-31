@@ -1,0 +1,51 @@
+:root {
+    --background-color: #b4be89;
+    --bs-primary-rgb: 	#424c51;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif ;
+    background-color: var(--background-color);
+    color: var(--bs-primary-rgb);
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Unbounded";
+    font-weight: 7;
+}
+
+.container-fluid-custom {
+    max-width: 1600px;
+}
+
+.btn{
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+    border-radius: 1.2rem;
+    background-color: #424c51;
+    border-color: #424c51;
+}
+
+.pagination {
+    --bs-pagination-color: #e0be99;
+    --bs-pagination-active-bg : #e0be99;
+    --bs-pagination-active-border-color: #e0be99;
+}
+
+
+
+
+.home-title::before{
+    content: url('./img/woman-hand-holding-pen-7269745.svg');
+    position: absolute;
+    left: -50px;
+    top: -30px;
+}
+.home-title::after{
+    content: url('./img/woman-hand-holding-pen-7269745.svg');
+    position: absolute;
+    right: -50px;
+    bottom: -30px;
+}

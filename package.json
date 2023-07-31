@@ -1,0 +1,36 @@
+{
+  "name": "noteworthy",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/akanksha2305/NoteWorthy/assets/64099160/f357a85d-e50b-4878-86b4-e1f8d387189d)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akanksha2305/NoteWorthy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akanksha2305/NoteWorthy/issues"
+  },
+  "homepage": "https://github.com/akanksha2305/NoteWorthy#readme",
+  "dependencies": {
+    "connect-mongo": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.3",
+    "method-override": "^3.0.0",
+    "mongoose": "^7.4.1",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
