@@ -13,6 +13,17 @@ Deployed link : https://thankful-kimono-crow.cyclic.cloud/
 
 ![Static Badge](https://img.shields.io/badge/NodeJS-101010?logo=nodedotjs&logoColor=%23339933) ![Static Badge](https://img.shields.io/badge/MongoDB-101010?logo=mongodb&logoColor=%2347A248)![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Features
+1. Real-time updates: Notes are updated in real-time as they are created and edited.
+2. User-friendly interface: The app has a clean and intuitive design, making it easy to use.
+3. Edit, delete, and search functionality: Users can make changes to their notes, delete notes, and search for specific notes. This allows for flexibility and efficiency in note management.
+
+### Future Scope
+1.Integrations with other apps and services, like email and calendar apps. 
+2. Multi-user collaboration, allowing users to share and co-edit notes. 
+3. Rich text formatting, with options like bold, italics, and underline. - AI-powered suggestions, like autocomplete and word prediction.
+4. Autotagging using NLP
+
 ### Contributing
 
 
