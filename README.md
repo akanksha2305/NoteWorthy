@@ -19,10 +19,11 @@ Deployed link : https://thankful-kimono-crow.cyclic.cloud/
 3. Edit, delete, and search functionality: Users can make changes to their notes, delete notes, and search for specific notes. This allows for flexibility and efficiency in note management.
 
 ### Future Scope
-1.Integrations with other apps and services, like email and calendar apps. 
+1. Integrations with other apps and services, like email and calendar apps.
 2. Multi-user collaboration, allowing users to share and co-edit notes. 
 3. Rich text formatting, with options like bold, italics, and underline. - AI-powered suggestions, like autocomplete and word prediction.
 4. Autotagging using NLP
+
 
 ### Contributing
 
