@@ -12,7 +12,7 @@ const app = express();
 const port = 8000 || process.env.PORT;
 
 app.use(session({
-  secret: 'keyboard cat',
+  secret: 'keyboard cat',  //session id cookie 
   resave: false,
   saveUninitialized: true,
   store: MongoStore.create({
@@ -21,9 +21,8 @@ app.use(session({
   //cookie: { maxAge: new Date ( Date.now() + (3600000) ) } 
   // Date.now() - 30 * 24 * 60 * 60 * 1000
 }));
-
 app.use(passport.initialize());
-app.use(passport.session());
+//app.use(passport.session());
 
 app.use(express.urlencoded({extended: true}));
 app.use(express.json());
@@ -32,7 +31,7 @@ app.use(methodOverride("_method"));
 connectDB();  
 
 // Static Files
-app.use(express.static('public'));
+app.use(express.static('public')); 
 
 // Templating Engine
 app.use(expressLayouts);
