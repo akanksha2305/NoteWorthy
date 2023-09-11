@@ -22,7 +22,7 @@ app.use(session({
   // Date.now() - 30 * 24 * 60 * 60 * 1000
 }));
 app.use(passport.initialize());
-//app.use(passport.session());
+app.use(passport.session());
 
 app.use(express.urlencoded({extended: true}));
 app.use(express.json());
